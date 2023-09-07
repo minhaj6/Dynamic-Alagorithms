@@ -1,0 +1,4 @@
+Dynamic programming is optimization of algorithms that is otherwise solved with plain recursion. 
+
+The idea is to store results of the sub-problems in memory, to be used later if needed again, instead of computing repeatedly. 
+This approach is developed by Richard Bellman in the 1950s. 
